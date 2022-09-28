@@ -1,8 +1,7 @@
-# [David McDermott - Freelancer](https://startbootstrap.com/theme/freelancer/)
+# [David McDermott - Portfolio]
 
-[Freelancer] This is a test.
 
-## Preview
+## Bio
 
 [![Freelancer Preview](https://assets.startbootstrap.com/img/screenshots/themes/freelancer.png)](https://startbootstrap.github.io/startbootstrap-freelancer/)
 
