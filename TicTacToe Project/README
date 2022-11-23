@@ -1,0 +1,7 @@
+Road Mpa of Future Improvements:
+
+1: Implement a banner notification for the winner of the game.
+How? To do this, a console log will need to be written to call the banner notification to alert the player that the game is over and a winner has been named.
+
+2: Alert players of a draw
+How? A console log banner notifcation would suffice here to notify players when a statistical draw is the only possible result and that they should re-start.
