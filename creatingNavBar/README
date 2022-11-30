@@ -1,0 +1,7 @@
+This is my React NavBar code.
+
+I have changed the colors of the NavBar I found from BootStrap
+
+I made these changes to play around with the design.
+
+It was hard to find where to change the colors of th NavBar since the code doesn't read like CSS. I had to find color names and play around with how things rendered after my changes to get it right.
